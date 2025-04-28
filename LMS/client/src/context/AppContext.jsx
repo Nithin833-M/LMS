@@ -69,7 +69,7 @@ export const AppContextProvider = (props)=>{
         return Math.floor(totalRating / course.courseRatings.length)
     }
 
-    //Function t0 calculate course chapter time
+    //Function to calculate course chapter time
     const calculateChapterTime = (chapter)=>{
         let time = 0
         chapter.chapterContent.map((lecture)=> time += lecture.lectureDuration)

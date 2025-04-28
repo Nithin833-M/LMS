@@ -4,7 +4,7 @@ import { AppContext } from '../../context/AppContext'
 import { Link } from 'react-router-dom'
 
 const Coursecard = ({course}) => {
-
+  
   const {currency, calculateRating } = useContext(AppContext)
   return (
     <Link to={'/course/' + course._id} onClick={()=> scrollTo(0,0)} 
