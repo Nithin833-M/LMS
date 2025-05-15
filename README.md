@@ -63,3 +63,11 @@ cd LMS
 -cd ../server
 -npm install
 -npm run dev
+
+![image alt](https://github.com/Nithin833-M/LMS/blob/f4137200ffe72bb5d9343623c391dc2913ee62d8/Screenshot%202025-05-15%20163837.png)
+
+![image alt](https://github.com/Nithin833-M/LMS/blob/f4137200ffe72bb5d9343623c391dc2913ee62d8/Screenshot%202025-05-15%20163902.png)
+
+![image alt](https://github.com/Nithin833-M/LMS/blob/f4137200ffe72bb5d9343623c391dc2913ee62d8/Screenshot%202025-05-15%20163914.png)
+
+![image alt](https://github.com/Nithin833-M/LMS/blob/f4137200ffe72bb5d9343623c391dc2913ee62d8/Screenshot%202025-05-15%20164049.png)
